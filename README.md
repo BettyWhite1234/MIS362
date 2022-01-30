@@ -1,4 +1,7 @@
 # MIS362f
+PgP 1/9/2022
+ * spring 2022 face to face
+
 PgP 6/20/2021
 * fall 2021 face to face, reviewing assignments
 
